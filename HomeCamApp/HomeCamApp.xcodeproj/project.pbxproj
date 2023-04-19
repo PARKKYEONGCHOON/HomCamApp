@@ -7,71 +7,59 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		56288DBE29F0028600D92A29 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56288DBD29F0028600D92A29 /* AppDelegate.swift */; };
-		56288DC029F0028600D92A29 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56288DBF29F0028600D92A29 /* SceneDelegate.swift */; };
-		56288DC229F0028600D92A29 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56288DC129F0028600D92A29 /* ViewController.swift */; };
-		56288DC729F0028700D92A29 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56288DC629F0028700D92A29 /* Assets.xcassets */; };
-		56288DCA29F0028700D92A29 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56288DC829F0028700D92A29 /* LaunchScreen.storyboard */; };
-		56288DD329F0032800D92A29 /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = 56288DD229F0032800D92A29 /* SnapKit */; };
-		56288DD629F0033600D92A29 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 56288DD529F0033600D92A29 /* Alamofire */; };
-		56288DD929F0034D00D92A29 /* RxBlocking in Frameworks */ = {isa = PBXBuildFile; productRef = 56288DD829F0034D00D92A29 /* RxBlocking */; };
-		56288DDB29F0034D00D92A29 /* RxCocoa in Frameworks */ = {isa = PBXBuildFile; productRef = 56288DDA29F0034D00D92A29 /* RxCocoa */; };
-		56288DDD29F0034D00D92A29 /* RxRelay in Frameworks */ = {isa = PBXBuildFile; productRef = 56288DDC29F0034D00D92A29 /* RxRelay */; };
-		56288DDF29F0034D00D92A29 /* RxSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 56288DDE29F0034D00D92A29 /* RxSwift */; };
+		5666FB3B29F005E3007C3B4F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5666FB3A29F005E3007C3B4F /* AppDelegate.swift */; };
+		5666FB3D29F005E3007C3B4F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5666FB3C29F005E3007C3B4F /* SceneDelegate.swift */; };
+		5666FB3F29F005E3007C3B4F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5666FB3E29F005E3007C3B4F /* ViewController.swift */; };
+		5666FB4429F005E5007C3B4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5666FB4329F005E5007C3B4F /* Assets.xcassets */; };
+		5666FB4729F005E5007C3B4F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5666FB4529F005E5007C3B4F /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		56288DBA29F0028600D92A29 /* HomeCamApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HomeCamApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		56288DBD29F0028600D92A29 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		56288DBF29F0028600D92A29 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		56288DC129F0028600D92A29 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		56288DC629F0028700D92A29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		56288DC929F0028700D92A29 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		56288DCB29F0028700D92A29 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5666FB3729F005E3007C3B4F /* HomeCamApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HomeCamApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5666FB3A29F005E3007C3B4F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		5666FB3C29F005E3007C3B4F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		5666FB3E29F005E3007C3B4F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		5666FB4329F005E5007C3B4F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5666FB4629F005E5007C3B4F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		5666FB4829F005E5007C3B4F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		56288DB729F0028600D92A29 /* Frameworks */ = {
+		5666FB3429F005E3007C3B4F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				56288DDF29F0034D00D92A29 /* RxSwift in Frameworks */,
-				56288DDD29F0034D00D92A29 /* RxRelay in Frameworks */,
-				56288DD329F0032800D92A29 /* SnapKit in Frameworks */,
-				56288DD929F0034D00D92A29 /* RxBlocking in Frameworks */,
-				56288DDB29F0034D00D92A29 /* RxCocoa in Frameworks */,
-				56288DD629F0033600D92A29 /* Alamofire in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		56288DB129F0028500D92A29 = {
+		5666FB2E29F005E3007C3B4F = {
 			isa = PBXGroup;
 			children = (
-				56288DBC29F0028600D92A29 /* HomeCamApp */,
-				56288DBB29F0028600D92A29 /* Products */,
+				5666FB3929F005E3007C3B4F /* HomeCamApp */,
+				5666FB3829F005E3007C3B4F /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		56288DBB29F0028600D92A29 /* Products */ = {
+		5666FB3829F005E3007C3B4F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				56288DBA29F0028600D92A29 /* HomeCamApp.app */,
+				5666FB3729F005E3007C3B4F /* HomeCamApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		56288DBC29F0028600D92A29 /* HomeCamApp */ = {
+		5666FB3929F005E3007C3B4F /* HomeCamApp */ = {
 			isa = PBXGroup;
 			children = (
-				56288DBD29F0028600D92A29 /* AppDelegate.swift */,
-				56288DBF29F0028600D92A29 /* SceneDelegate.swift */,
-				56288DC129F0028600D92A29 /* ViewController.swift */,
-				56288DC629F0028700D92A29 /* Assets.xcassets */,
-				56288DC829F0028700D92A29 /* LaunchScreen.storyboard */,
-				56288DCB29F0028700D92A29 /* Info.plist */,
+				5666FB3A29F005E3007C3B4F /* AppDelegate.swift */,
+				5666FB3C29F005E3007C3B4F /* SceneDelegate.swift */,
+				5666FB3E29F005E3007C3B4F /* ViewController.swift */,
+				5666FB4329F005E5007C3B4F /* Assets.xcassets */,
+				5666FB4529F005E5007C3B4F /* LaunchScreen.storyboard */,
+				5666FB4829F005E5007C3B4F /* Info.plist */,
 			);
 			path = HomeCamApp;
 			sourceTree = "<group>";
@@ -79,47 +67,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		56288DB929F0028600D92A29 /* HomeCamApp */ = {
+		5666FB3629F005E3007C3B4F /* HomeCamApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 56288DCE29F0028700D92A29 /* Build configuration list for PBXNativeTarget "HomeCamApp" */;
+			buildConfigurationList = 5666FB4B29F005E5007C3B4F /* Build configuration list for PBXNativeTarget "HomeCamApp" */;
 			buildPhases = (
-				56288DB629F0028600D92A29 /* Sources */,
-				56288DB729F0028600D92A29 /* Frameworks */,
-				56288DB829F0028600D92A29 /* Resources */,
+				5666FB3329F005E3007C3B4F /* Sources */,
+				5666FB3429F005E3007C3B4F /* Frameworks */,
+				5666FB3529F005E3007C3B4F /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			name = HomeCamApp;
-			packageProductDependencies = (
-				56288DD229F0032800D92A29 /* SnapKit */,
-				56288DD529F0033600D92A29 /* Alamofire */,
-				56288DD829F0034D00D92A29 /* RxBlocking */,
-				56288DDA29F0034D00D92A29 /* RxCocoa */,
-				56288DDC29F0034D00D92A29 /* RxRelay */,
-				56288DDE29F0034D00D92A29 /* RxSwift */,
-			);
 			productName = HomeCamApp;
-			productReference = 56288DBA29F0028600D92A29 /* HomeCamApp.app */;
+			productReference = 5666FB3729F005E3007C3B4F /* HomeCamApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		56288DB229F0028500D92A29 /* Project object */ = {
+		5666FB2F29F005E3007C3B4F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1420;
 				LastUpgradeCheck = 1420;
 				TargetAttributes = {
-					56288DB929F0028600D92A29 = {
+					5666FB3629F005E3007C3B4F = {
 						CreatedOnToolsVersion = 14.2;
 					};
 				};
 			};
-			buildConfigurationList = 56288DB529F0028500D92A29 /* Build configuration list for PBXProject "HomeCamApp" */;
+			buildConfigurationList = 5666FB3229F005E3007C3B4F /* Build configuration list for PBXProject "HomeCamApp" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -127,51 +107,46 @@
 				en,
 				Base,
 			);
-			mainGroup = 56288DB129F0028500D92A29;
-			packageReferences = (
-				56288DD129F0032800D92A29 /* XCRemoteSwiftPackageReference "SnapKit" */,
-				56288DD429F0033600D92A29 /* XCRemoteSwiftPackageReference "Alamofire" */,
-				56288DD729F0034D00D92A29 /* XCRemoteSwiftPackageReference "RxSwift" */,
-			);
-			productRefGroup = 56288DBB29F0028600D92A29 /* Products */;
+			mainGroup = 5666FB2E29F005E3007C3B4F;
+			productRefGroup = 5666FB3829F005E3007C3B4F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				56288DB929F0028600D92A29 /* HomeCamApp */,
+				5666FB3629F005E3007C3B4F /* HomeCamApp */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		56288DB829F0028600D92A29 /* Resources */ = {
+		5666FB3529F005E3007C3B4F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				56288DCA29F0028700D92A29 /* LaunchScreen.storyboard in Resources */,
-				56288DC729F0028700D92A29 /* Assets.xcassets in Resources */,
+				5666FB4729F005E5007C3B4F /* LaunchScreen.storyboard in Resources */,
+				5666FB4429F005E5007C3B4F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		56288DB629F0028600D92A29 /* Sources */ = {
+		5666FB3329F005E3007C3B4F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				56288DC229F0028600D92A29 /* ViewController.swift in Sources */,
-				56288DBE29F0028600D92A29 /* AppDelegate.swift in Sources */,
-				56288DC029F0028600D92A29 /* SceneDelegate.swift in Sources */,
+				5666FB3F29F005E3007C3B4F /* ViewController.swift in Sources */,
+				5666FB3B29F005E3007C3B4F /* AppDelegate.swift in Sources */,
+				5666FB3D29F005E3007C3B4F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		56288DC829F0028700D92A29 /* LaunchScreen.storyboard */ = {
+		5666FB4529F005E5007C3B4F /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				56288DC929F0028700D92A29 /* Base */,
+				5666FB4629F005E5007C3B4F /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -179,7 +154,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		56288DCC29F0028700D92A29 /* Debug */ = {
+		5666FB4929F005E5007C3B4F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -239,7 +214,7 @@
 			};
 			name = Debug;
 		};
-		56288DCD29F0028700D92A29 /* Release */ = {
+		5666FB4A29F005E5007C3B4F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -293,7 +268,7 @@
 			};
 			name = Release;
 		};
-		56288DCF29F0028700D92A29 /* Debug */ = {
+		5666FB4C29F005E5007C3B4F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -320,7 +295,7 @@
 			};
 			name = Debug;
 		};
-		56288DD029F0028700D92A29 /* Release */ = {
+		5666FB4D29F005E5007C3B4F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -350,85 +325,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		56288DB529F0028500D92A29 /* Build configuration list for PBXProject "HomeCamApp" */ = {
+		5666FB3229F005E3007C3B4F /* Build configuration list for PBXProject "HomeCamApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				56288DCC29F0028700D92A29 /* Debug */,
-				56288DCD29F0028700D92A29 /* Release */,
+				5666FB4929F005E5007C3B4F /* Debug */,
+				5666FB4A29F005E5007C3B4F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		56288DCE29F0028700D92A29 /* Build configuration list for PBXNativeTarget "HomeCamApp" */ = {
+		5666FB4B29F005E5007C3B4F /* Build configuration list for PBXNativeTarget "HomeCamApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				56288DCF29F0028700D92A29 /* Debug */,
-				56288DD029F0028700D92A29 /* Release */,
+				5666FB4C29F005E5007C3B4F /* Debug */,
+				5666FB4D29F005E5007C3B4F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCRemoteSwiftPackageReference section */
-		56288DD129F0032800D92A29 /* XCRemoteSwiftPackageReference "SnapKit" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/SnapKit/SnapKit";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 5.0.0;
-			};
-		};
-		56288DD429F0033600D92A29 /* XCRemoteSwiftPackageReference "Alamofire" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/Alamofire/Alamofire.git";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 5.0.0;
-			};
-		};
-		56288DD729F0034D00D92A29 /* XCRemoteSwiftPackageReference "RxSwift" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/ReactiveX/RxSwift.git";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 6.0.0;
-			};
-		};
-/* End XCRemoteSwiftPackageReference section */
-
-/* Begin XCSwiftPackageProductDependency section */
-		56288DD229F0032800D92A29 /* SnapKit */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 56288DD129F0032800D92A29 /* XCRemoteSwiftPackageReference "SnapKit" */;
-			productName = SnapKit;
-		};
-		56288DD529F0033600D92A29 /* Alamofire */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 56288DD429F0033600D92A29 /* XCRemoteSwiftPackageReference "Alamofire" */;
-			productName = Alamofire;
-		};
-		56288DD829F0034D00D92A29 /* RxBlocking */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 56288DD729F0034D00D92A29 /* XCRemoteSwiftPackageReference "RxSwift" */;
-			productName = RxBlocking;
-		};
-		56288DDA29F0034D00D92A29 /* RxCocoa */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 56288DD729F0034D00D92A29 /* XCRemoteSwiftPackageReference "RxSwift" */;
-			productName = RxCocoa;
-		};
-		56288DDC29F0034D00D92A29 /* RxRelay */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 56288DD729F0034D00D92A29 /* XCRemoteSwiftPackageReference "RxSwift" */;
-			productName = RxRelay;
-		};
-		56288DDE29F0034D00D92A29 /* RxSwift */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 56288DD729F0034D00D92A29 /* XCRemoteSwiftPackageReference "RxSwift" */;
-			productName = RxSwift;
-		};
-/* End XCSwiftPackageProductDependency section */
 	};
-	rootObject = 56288DB229F0028500D92A29 /* Project object */;
+	rootObject = 5666FB2F29F005E3007C3B4F /* Project object */;
 }

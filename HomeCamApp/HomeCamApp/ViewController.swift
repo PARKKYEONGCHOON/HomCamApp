@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
         let test = UILabel()
         view.backgroundColor = .white // 배경색
         view.addSubview(test)
